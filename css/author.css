@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade|Open+Sans');
+
+body {
+	background-color: #000;
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 60px;
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 3em;
+}
+
+h2 {
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 3em;
+}
+
+.fa {
+	font-size: 1.5em !important;
+}
+
+.content {
+	max-width: 740px;
+	margin: 0 auto;
+}
+
+.book {
+	margin: 10px;
+	flex: 1 1 0px;
+	max-width: 451;
+	/*background-color: purple;*/
+
+}
+
+#publications {
+	max-width: 740px;
+	display: flex;
+	/*background-color: green;*/
+
+}
